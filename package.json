@@ -1,0 +1,9 @@
+{
+  "name": "1week",
+  "scripts": {
+    "start": "http-server -p 9000"
+  },
+  "dependencies": {
+    "http-server": "*"
+  }
+}
